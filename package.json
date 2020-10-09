@@ -2,7 +2,7 @@
   "name": "my-to-do-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khannapriya.github.io/ToDoList",
+  "homepage": "https://github.com/khannapriya/ToDO-list",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
