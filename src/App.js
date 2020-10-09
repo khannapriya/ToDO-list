@@ -93,7 +93,7 @@ class App extends React.Component{
 
         <Header />   
 
-        <Route exact path='/' render={props=>(
+        <Route exact path='/ToDO-list' render={props=>(
           <React.Fragment>
             <div  fxflex="" fxlayout="row" fxlayoutalign="start center" >
                 
