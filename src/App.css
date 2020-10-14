@@ -94,3 +94,12 @@ input[type=checkbox]:checked:after {
 .AddItem{
   background: #fcfcfc !important;
 }
+
+.setting{
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+.setting svg{
+  font-size:24px;
+}
